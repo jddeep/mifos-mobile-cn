@@ -78,7 +78,6 @@
         <item>Loan details</item>
         <item>Debt to income ratio</item>
         <item>Co-signer</item>
-        <item>Review</item>
     </string-array>
 
     <!--Loan Debt Income Fragment-->
@@ -310,6 +309,9 @@
     <string name="privacy_policy_host" translatable="false">openmf.github.io/privacy_policy_mifos_mobile.html</string>
     <string name="privacy_policy_host_url" translatable="false">https://openmf.github.io/privacy_policy_mifos_mobile.html</string>
     <string name="opensource_license_title">Open Source licenses</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
